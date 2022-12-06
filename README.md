@@ -1,1 +1,1 @@
-# ICS691_Human-Centered-AI_FinalProject
+# ICS691: Human-Centered AI Final Project
